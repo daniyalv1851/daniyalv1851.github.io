@@ -4167,11 +4167,12 @@ input[type="button"].btn-block {
   align-items: center;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  background-color: white;
 }
 
 .navbar-brand {
   font-family: 'potralight', Arial, Helvetica, sans-serif;
-  color: white;
+  color: black;
   display: inline-block;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
