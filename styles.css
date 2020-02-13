@@ -8,8 +8,3 @@ body {
     background: linear-gradient(to right, #2196f3, #f44336); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     height: 100%
 }
-h1 {
-    font-family: 'potralight', Arial, Helvetica, sans-serif;
-font-weight:normal;
-font-style:normal;
-}
