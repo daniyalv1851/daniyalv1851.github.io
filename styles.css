@@ -10,4 +10,6 @@ body {
 }
 h1 {
     font-family: 'potralight', Arial, Helvetica, sans-serif;
+font-weight:normal;
+font-style:normal;
 }
