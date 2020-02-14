@@ -13,7 +13,7 @@ h1 {
     font-weight: normal;
     font-style: normal;
 }
-#particles-js 
+#particles-js canvas 
 {
     z-index: -10;
 }
