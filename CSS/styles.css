@@ -13,7 +13,10 @@ h1 {
     font-weight: normal;
     font-style: normal;
 }
-
+#particles-js 
+{
+    z-index: -10;
+}
 
 .navbar-brand
 {
