@@ -1,8 +1,6 @@
 
 body {
-    background: #2196f3; /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2196f3, #f44336); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2196f3, #f44336); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
     
 }
 h1 {
@@ -10,8 +8,24 @@ h1 {
     font-weight: normal;
     font-style: normal;
     color: #2196f3;
+    
 }
 
+h2 {
+    font-family: 'louis_george_cafebold', Arial, Helvetica, sans-serif;
+}
+
+
+.jumbotron
+
+{
+    font-size: 200%;
+}
+
+.small
+{
+    font-size: 10px;
+}
 p
 {
     font-family: 'louis_george_caferegular', Arial, Helvetica, sans-serif;
@@ -21,6 +35,7 @@ li
 {
     font-family: 'louis_george_caferegular', Arial, Helvetica, sans-serif;
 }
+
 
 .main
 {
@@ -72,6 +87,8 @@ a:hover
 .title
 {
     font-family: 'louis_george_cafebold', Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
 }
 .post
 {
