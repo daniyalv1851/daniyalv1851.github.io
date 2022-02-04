@@ -11,7 +11,27 @@ h1 {
     
 }
 
+.bold 
+{
+    color: #2196f3;
+    font-weight: bold;
+}
+
+.mainbody
+{
+    position: relative;
+    left:0%;
+}
+
 h2 {
+    font-family: 'louis_george_cafebold', Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: 'louis_george_cafebold', Arial, Helvetica, sans-serif;
+}
+
+h4 {
     font-family: 'louis_george_cafebold', Arial, Helvetica, sans-serif;
 }
 
@@ -53,14 +73,6 @@ a:hover
 }
 
 
-#particles-js {
-    width: 100%;
-    height: 100%;
-    position: fixed;
-    z-index: -1;
-    top: 0;
-    left: 0
-}
 
 .panel
 {
